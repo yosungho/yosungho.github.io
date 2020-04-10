@@ -118,7 +118,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /slam/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /paper/
