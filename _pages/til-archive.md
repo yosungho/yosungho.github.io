@@ -1,6 +1,6 @@
 ---
 # title: "Posts by Category"
-layout: tags
 permalink: /til/
+layout: tags
 author_profile: true
 ---
