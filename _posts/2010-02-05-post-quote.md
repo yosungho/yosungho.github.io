@@ -4,7 +4,7 @@ title: "Post: Quote"
 #   - Blog
 tags:
   - Post Formats
-  - quote
+  # - quote
 ---
 
 tags
