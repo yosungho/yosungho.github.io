@@ -116,9 +116,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+slam_archive:
   type: liquid
   path: /slam/
-tag_archive:
+paper_archive:
   type: liquid
   path: /paper/
+til_archive:
+  type: liquid
+  path: /til/
