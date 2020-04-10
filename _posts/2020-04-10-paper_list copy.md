@@ -10,8 +10,6 @@ categories_slam:
 # sitemap :
 #   changefreq : weekly
 #   priority : 1.0
-
-comments: true
 ---
 
 categories_slam
