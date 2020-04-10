@@ -1,6 +1,6 @@
 ---
 # title: "Posts by Category"
 permalink: /til/
-layout: categories_slam
+layout: tils
 author_profile: true
 ---
