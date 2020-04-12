@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-##Sungho Yoon
+## Sungho Yoon
 Ph.D. Student in KAIST
 
-###Research Interests
-SLAM and Machine Learning
+<!-- ### Research Interests
+SLAM and Machine Learning -->

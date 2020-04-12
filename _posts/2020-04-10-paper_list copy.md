@@ -1,18 +1,15 @@
 ---
 title: 'SLAM을 이해하기 위한 논문 List'
-categories_slam:
-  - Paper
+categories:
+  - List
 # tags: 
 #     - SLAM
-#     - List
-# description: >
-#   SLAM을 이해하는데 중요한 논문 List 2
-# sitemap :
-#   changefreq : weekly
-#   priority : 1.0
+description: >
+  SLAM을 이해하기 위한 논문 List
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
-
-categories_slam
 
 ## Filter-based
 1. EKF-SLAM
@@ -22,7 +19,7 @@ categories_slam
 4. UKF
 
 ## Feature-based
-1. ORB-SLAM
+1. ORB-SLAM 1,2
 2. Inverse Depth Parametrization for Monocular SLAM
 3. DTAM
 4. PTAM
@@ -71,7 +68,7 @@ Surfel-based Mapping using 3D Laser Range Data
 ## Learning-based
 1. CNN-SLAM
 2. GA-Net
-etc..
+etc.
 
 <!-- https://docs.google.com/spreadsheets/d/1_iuSHtbpBoX9eUWUuhUvHijiAX3aBsCHY7FynunjMEo/edit?ts=5dcbf389#gid=0
 https://www.dropbox.com/home/Readings/2019-winter-slam-study -->
