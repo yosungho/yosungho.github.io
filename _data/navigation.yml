@@ -5,7 +5,7 @@ main:
     url: /slam/
   - title: "Paper"
     url: /paper/
-  - title: "TIL"
-    url: /til/
+  # - title: "TIL"
+  #   url: /til/
   - title: "About"
     url: /about/
