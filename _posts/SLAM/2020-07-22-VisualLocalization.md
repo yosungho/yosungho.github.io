@@ -1,9 +1,9 @@
 ---
 title: 'Visual Localization이 실패하는 Case 정리'
-categories:
+<!-- categories:
+  - SLAM -->
+tags:
   - SLAM
-# tags:
-#     - SLAM
 description: >
   Visual Localization에서 해결해야 할 문제들은 어떤게 있을까?
 sitemap :
