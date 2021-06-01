@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: yosungho's SLAM blog 
+title: yosungho's SLAM blog
 email: rp.sungho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog describes SLAM and ML.
@@ -63,14 +63,14 @@ plugins:
 author:
   name   : "Sungho Yoon"
   avatar : "/assets/images/sungho.png"
-  bio    : "Yep, I am Sungho."
+  bio    : "Hello, I am Sungho."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rp_sungho"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yosungho"
@@ -83,9 +83,9 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rp_sungho"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yosungho"
@@ -122,6 +122,6 @@ slam_archive:
 paper_archive:
   type: liquid
   path: /paper/
-til_archive:
-  type: liquid
-  path: /til/
+# til_archive:
+#   type: liquid
+#   path: /til/
