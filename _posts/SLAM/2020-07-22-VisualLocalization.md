@@ -1,7 +1,7 @@
 ---
 title: 'Visual Localization이 실패하는 Case 정리'
 categories:
-  - VL
+  - SLAM
 # tags:
 #     - SLAM
 description: >
