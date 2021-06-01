@@ -9,6 +9,7 @@ description: >
 sitemap :
   changefreq : weekly
   priority : 1.0
+published: false
 ---
 
 1. Strong illumination changes

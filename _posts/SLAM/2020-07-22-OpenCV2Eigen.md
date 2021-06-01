@@ -2,13 +2,14 @@
 title: 'OpenCV와 Eigen 어떻게 구분해서 쓸까?'
 categories:
   - OpenSource
-# tags: 
+# tags:
 #     - SLAM
 description: >
   OpenCV와 Eigen 어떻게 구분해서 쓸까?
 sitemap :
   changefreq : weekly
   priority : 1.0
+published: false
 ---
 
 Eigen과 OpenCV 둘다 나름의 행렬 자료형을 가지고 있고 연산이 가능하다.
